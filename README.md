@@ -81,7 +81,8 @@
 
 ---
 
-## 🎵 Currently Vibing To [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31myxgdds7q3rhb4izzszq3kky3i)
+### **Currently Vibing To** 
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31myxgdds7q3rhb4izzszq3kky3i)
 
 ---
 

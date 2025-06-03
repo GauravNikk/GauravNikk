@@ -81,26 +81,7 @@
 
 ---
 
-## 🎵 Currently Vibing To
-<div align="center">
-  <a href="https://open.spotify.com/user/31myxgdds7q3rhb4izzszq3kky3i">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Profile" />
-  </a>
-</div>
-
----
-
-## 💼 Professional Highlights
-
-<div align="center">
-
-| 🎯 **Leadership** | 📱 **Development** | 🚀 **Architecture** |
-|:------------------:|:----------------------:|:--------------------:|
-| Led 10+ Developer Teams | 10+ Production Apps | Clean Architecture Expert |
-| Mentored Junior Devs | Cross-Platform Solutions | MVVM & MVP Patterns |
-| Project Management | Real-time Applications | Scalable System Design |
-
-</div>
+## 🎵 Currently Vibing To [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31myxgdds7q3rhb4izzszq3kky3i)
 
 ---
 
